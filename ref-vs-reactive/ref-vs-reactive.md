@@ -54,7 +54,7 @@ const envelhecer = () => {
 > Se precisar alterar um número ou string diretamente, `ref()` é a melhor opção.  
 > Se for um objeto com várias propriedades, `reactive()` faz mais sentido.
 
-### Exemplo de `ref()` e `reactive-({})`
+### Exemplo de `ref()` e `reactive({})`
 
 ```vue
 <script setup>
